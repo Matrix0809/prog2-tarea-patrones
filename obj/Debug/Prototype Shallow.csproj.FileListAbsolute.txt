@@ -1,0 +1,7 @@
+C:\Users\Carlos Miguel\source\repos\Prototype Shallow\Prototype Shallow\bin\Debug\Prototype Shallow.exe.config
+C:\Users\Carlos Miguel\source\repos\Prototype Shallow\Prototype Shallow\bin\Debug\Prototype Shallow.exe
+C:\Users\Carlos Miguel\source\repos\Prototype Shallow\Prototype Shallow\bin\Debug\Prototype Shallow.pdb
+C:\Users\Carlos Miguel\source\repos\Prototype Shallow\Prototype Shallow\obj\Debug\Prototype Shallow.csprojAssemblyReference.cache
+C:\Users\Carlos Miguel\source\repos\Prototype Shallow\Prototype Shallow\obj\Debug\Prototype Shallow.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Miguel\source\repos\Prototype Shallow\Prototype Shallow\obj\Debug\Prototype Shallow.exe
+C:\Users\Carlos Miguel\source\repos\Prototype Shallow\Prototype Shallow\obj\Debug\Prototype Shallow.pdb
